@@ -1,7 +1,11 @@
 #Don't Try To Decode Your Father Script
+
 #Just Use For Fun Not For Revenge
+
 #Its Mr Hacker power Baby
+
 pkg update 
+
 pkg upgrade 
 pkg install git 
 pkg install python 
