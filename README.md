@@ -7,12 +7,21 @@
 pkg update 
 
 pkg upgrade 
+
 pkg install git 
+
 pkg install python 
+
 pip install requests 
+
 pip install bs4 
-pip install rich 
+
+pip install rich
+
 pip install mechanize 
+
 git clone https://github.com/malangyar/Malang.git
+
 cd Malang
+
 python Best.py
